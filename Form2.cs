@@ -16,5 +16,10 @@ namespace Gestor_para_caja
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
